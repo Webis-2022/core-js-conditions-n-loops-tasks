@@ -113,7 +113,6 @@ function isIsoscelesTriangle(a, b, c) {
  *  26  => XXVI
  */
 function convertToRomanNumerals(num) {
-  console.log(num);
   let result = '';
   let digit = num;
 
